@@ -67,4 +67,6 @@ compile_commands.json
 *_qmlcache.qrc
 
 #Other
+Upload*
 *.zip
+check*
